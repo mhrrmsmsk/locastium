@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206078340385",
+    "project_id": "astem-location-app",
+    "storage_bucket": "astem-location-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206078340385:android:966318c5e26d8c464be260",
+        "android_client_info": {
+          "package_name": "com.mhrrmsmsk.locastium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwUcWY_RraComT9_Nqp7HSxnaLINbOkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
